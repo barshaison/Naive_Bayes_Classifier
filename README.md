@@ -20,4 +20,18 @@ This project includes data files to test the classifier with:
 3. train.csv - the train set
 4. test.csv - the test set
 
+## Prerequisites
+Install Python 2.7 (Since the project uses pandas library, best to use Anaconda Distribution) can download here: 
+https://www.anaconda.com/download/
+
+## Running The Program
+python Prog.py
+
+## Usage 
+1. Browse the directory with the Structure.txt , train.csv and test.cxs files
+2. Type the desired number of Discretization Bins
+3. Click Build
+4. Click Classify
+
+
 
