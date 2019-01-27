@@ -33,5 +33,8 @@ python Prog.py
 3. Click Build
 4. Click Classify
 
+The classification results will be outputed to output.txt 
+
+
 
 
