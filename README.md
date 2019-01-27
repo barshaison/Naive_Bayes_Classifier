@@ -10,6 +10,6 @@ https://en.wikipedia.org/wiki/Naive_Bayes_classifier
     Data Cleaning: Fill in missing values, Identify outliers and smooth out noisy data (using the Equal-width Partitioning Discretization     Method) , Correct inconsistent data.
 3. Loading the train set 
 4. Building the classifier using the train set
-5.Loading the test set
-6.Classifying the records with Naive Bayes classifier using m-estimator (m=2)
+5. Loading the test set
+6. Classifying the records with Naive Bayes classifier using m-estimator (m=2)
 
