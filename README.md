@@ -1,7 +1,7 @@
 # Naive_Bayes_Classifier
 This is a school project I did in the course "Data Mining and Data Warehousing"
 
-This is a generic Classifier based on "Naive Bayes" algorithm using m-estimator (m=2)
+This is a desktop application for generic Classifier based on "Naive Bayes" algorithm using m-estimator (m=2)
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 
 ## Workflow
